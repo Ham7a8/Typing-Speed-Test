@@ -119,5 +119,4 @@ if __name__ == "__main__":
         while restart:
             restart = main()
     except KeyboardInterrupt:
-        print(f"\n{Fore.YELLOW}Thanks for playing!{Style.RESET_ALL}")
         sys.exit()
