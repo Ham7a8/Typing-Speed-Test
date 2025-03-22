@@ -2,6 +2,10 @@
 
 A simple command-line typing speed test application that helps you measure and improve your typing speed.
 
+## Demo
+
+![Typing Test Demo](rec.gif)
+
 ## Features
 
 - Random word selection from a 1000-word English dictionary
